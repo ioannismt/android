@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="map" type="id" />
+    <item name="view_favorites_button" type="id" />
+    <item name="remove_all_favorites_button" type="id" />
+    <item name="favorite_button" type="id" />
+    <item name="store_list_view" type="id" />
+    <item name="list_view" type="id" />
+    <item name="back_button" type="id" />
+</resources>

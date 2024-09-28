@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/view_cafe_favorites" android:title="View Restaurant-Food Favorites" />
+    <item android:id="@+id/view_health_favorites" android:title="View Health Favorites" />
+    <item android:id="@+id/view_restaurant_favorites" android:title="View Coffee Favorites" />
+</menu>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/view_details_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="View Details" />
+
+    <Button
+        android:id="@+id/rate_store_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Rate Store" />
+
+    <Button
+        android:id="@+id/view_reviews_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="View Reviews" />
+
+    <Button
+        android:id="@+id/view_ratings_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="View Ratings" />
+
+    <Button
+        android:id="@+id/leave_review_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Leave Review" />
+
+    <Button
+        android:id="@+id/navigate_to_store_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Navigate to Store" />
+
+    <Button
+        android:id="@+id/remove_marker_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Remove Marker" />
+
+</LinearLayout>
